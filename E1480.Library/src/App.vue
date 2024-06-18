@@ -6,7 +6,7 @@
 
 <template>
   <nav><ul>
-    <li><a href="#">icon</a></li>
+    <img src="./assets/logo.svg" width="30px" height="30px" id="logo-main">
     <li><a href="#">Home</a></li>
     <li><a href="#">Library</a></li>
   </ul></nav>

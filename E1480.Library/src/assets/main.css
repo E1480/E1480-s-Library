@@ -1,2 +1,9 @@
 @import './base.css';
 
+nav ul li{
+  list-style-type: none;
+  display: inline-block;
+  padding-left: 5em;
+  padding-right: 5em;
+  padding-top: 2.5em;
+}
